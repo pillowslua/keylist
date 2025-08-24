@@ -1,1 +1,10 @@
-fuck
+{
+  "validKeys": [
+    "TOOLXAM1",
+    "KHONGTHESUDUNG",
+    "NEXUSSSS11",
+    "KHONGCOKEY001",
+    "TUITHICHBAN9999",
+    "YOUR_ACTUAL_KEYS_HERE"
+  ]
+}
